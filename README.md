@@ -31,7 +31,6 @@ Descobri recentemente a **[Discloud](https://discloud.com/)** e achei muito lega
 - 🇧🇷 **É brasileira** - Suporte em português
 - ⚡ **Deploy rápido** - Em poucos segundos
 - 🔧 **Interface simples** - Fácil de usar
-- 📱 **Tem app mobile** - Prático para gerenciar
 
 ---
 
