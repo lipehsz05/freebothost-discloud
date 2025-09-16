@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Guia+Completo+de+Hospedagem+de+Bots;📚+Discloud+Hosting+Guide;🚀+Deploy+Gratuito+de+Bots" alt="Typing SVG" />
+  <h1>🤖 Guia Completo de Hospedagem de Bots</h1>
+  <h2>📚 Discloud Hosting Guide</h2>
+  <h3>🚀 Deploy Gratuito de Bots</h3>
 </div>
 
 <br>
@@ -34,12 +36,12 @@ Olá! 👋 Este guia foi criado para te ajudar a hospedar seus bots do Discord d
 - **Ideal para:** Bots simples, testes, projetos pessoais
 - **Limitações:** Apenas 1 aplicação ativa
 
-### 💎 **Planos Pagos** (a partir de R$ 1,99/mês)
+### 💎 **Planos Pagos** (a partir de R$ 5,99/mês)
 - **RAM:** 256MB, 512MB, 1GB ou mais
 - **Ideal para:** Bots complexos, múltiplas aplicações
 - **Vantagens:** Sem limitações, suporte prioritário
 
-> 💡 **Dica:** Comece com o plano gratuito para testar. Se seu bot precisar de mais recursos, você pode fazer upgrade facilmente!
+> 💡 **Dica:** Comece com o plano gratuito para testar. Se seu bot precisar de mais recursos, você pode fazer upgrade facilmente (a partir de R$ 5,99/mês)!
 
 ---
 
@@ -234,17 +236,30 @@ jobs:
 
 ---
 
-## 📊 Meus Bots Hospedados
+## 📊 Meus Bots em Produção
 
 <div align="center">
 
-### 🤖 **Bots em Produção**
+### 🤖 **Bots Hospedados na Discloud**
 
-[![Bot 1](https://img.shields.io/badge/Bot-1-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/lipehsz05/bot1)
-[![Bot 2](https://img.shields.io/badge/Bot-2-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/lipehsz05/bot2)
-[![Bot 3](https://img.shields.io/badge/Bot-3-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/lipehsz05/bot3)
+[![Bot Pagamentos PushinPay](https://img.shields.io/badge/Bot%20Pagamentos%20PushinPay-4%20⭐-5865F2?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/lipehsz05/bot-pagamentos-telegram-pushinpay)
+[![Bot Pagamentos Mercado Pago](https://img.shields.io/badge/Bot%20Pagamentos%20Mercado%20Pago-11%20⭐-00D9FF?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/lipehsz05/bot-pagamentos-telegram)
 
 </div>
+
+### 📝 **Sobre os Bots:**
+
+**🤖 Bot Pagamentos PushinPay** - [4 ⭐](https://github.com/lipehsz05/bot-pagamentos-telegram-pushinpay)
+- Automação de pagamentos via PIX
+- Controle de acesso a grupos VIP
+- Banco de dados SQLite integrado
+- Expulsão automática de usuários expirados
+
+**🤖 Bot Pagamentos Mercado Pago** - [11 ⭐](https://github.com/lipehsz05/bot-pagamentos-telegram)
+- Integração com Mercado Pago
+- Envio automático de produtos digitais
+- Gerenciamento de produtos
+- Notificações de pagamento
 
 ---
 
