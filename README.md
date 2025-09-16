@@ -18,11 +18,12 @@
 
 Descobri recentemente a **[Discloud](https://discloud.com/)** e achei muito legal para hospedar bots gratuitamente! Decidi criar este guia para compartilhar como funciona, já que é uma plataforma brasileira bem interessante.
 
-<p align="center">
-  <a href="https://discloud.com/">
-    <img src="https://raw.githubusercontent.com/discloud/discloud/main/assets/logo.png" alt="Discloud Logo" width="50" height="50"/>
+<div align="center">
+  <a href="https://discloud.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/52298750?s=200&v=4" alt="Discloud Logo" width="50" height="50" />
   </a>
-</p>
+</div>
+
 
 ### 🤔 Por que usei a Discloud?
 
