@@ -16,16 +16,20 @@
 
 ## 📖 Sobre Este Guia
 
-Olá! 👋 Este guia foi criado para te ajudar a hospedar seus bots do Discord de forma **100% gratuita** usando a **[Discloud](https://discloud.com/)**, uma plataforma brasileira incrível que oferece hospedagem gratuita para desenvolvedores.
+Descobri recentemente a **[Discloud](https://discloud.com/)** e achei muito legal para hospedar bots gratuitamente! Decidi criar este guia para compartilhar como funciona, já que é uma plataforma brasileira bem interessante.
 
-### ✨ Por que escolher a Discloud?
+<div align="center">
+  <img src="https://raw.githubusercontent.com/discloud/discloud/main/assets/logo.png" alt="Discloud Logo" width="50" height="50" />
+  <a href="https://discloud.com/" target="_blank">**Discloud**</a>
+</div>
 
-- 🆓 **Plano Gratuito** - 100MB de RAM gratuitos para testar e hospedar bots
-- 💰 **Planos Acessíveis** - A partir de R$ 1,99/mês para projetos maiores
-- 🇧🇷 **Brasileira** - Suporte em português e comunidade ativa
-- ⚡ **Rápida** - Deploy em segundos, sem complicações
-- 🔧 **Fácil** - Interface intuitiva, perfeita para iniciantes
-- 📱 **Mobile** - App disponível para gerenciar seus bots
+### 🤔 Por que usei a Discloud?
+
+- 🆓 **Tem plano gratuito** - 100MB de RAM para testar
+- 🇧🇷 **É brasileira** - Suporte em português
+- ⚡ **Deploy rápido** - Em poucos segundos
+- 🔧 **Interface simples** - Fácil de usar
+- 📱 **Tem app mobile** - Prático para gerenciar
 
 ---
 
@@ -41,7 +45,7 @@ Olá! 👋 Este guia foi criado para te ajudar a hospedar seus bots do Discord d
 - **Ideal para:** Bots complexos, múltiplas aplicações
 - **Vantagens:** Sem limitações, suporte prioritário
 
-> 💡 **Dica:** Comece com o plano gratuito para testar. Se seu bot precisar de mais recursos, você pode fazer upgrade facilmente (a partir de R$ 1,99/mês)!
+> 💡 **Dica:** Eu comecei com o plano gratuito para testar meus bots. Se precisar de mais recursos, tem planos a partir de R$ 1,99/mês.
 
 ---
 
@@ -55,6 +59,8 @@ Antes de começar, você precisa ter:
 - [x] **Bot do Discord criado** - [Guia oficial](https://discord.com/developers/applications)
 - [x] **Código do seu bot** - Pode ser JavaScript, Python, etc.
 - [x] **Token do bot** - Obtido no Discord Developer Portal
+
+> 💭 **Minha experiência:** Foi bem simples criar a conta e começar a usar!
 
 ### 🔧 **Passo 2: Estrutura do Projeto**
 
@@ -118,6 +124,8 @@ discord.py>=2.0.0
    - Outras variáveis que seu bot precise
 5. **Clique** em "Deploy" e aguarde alguns segundos
 6. **Pronto!** Seu bot estará online! 🎉
+
+> 🎯 **Funcionou perfeitamente:** Meus bots ficaram online em menos de 30 segundos!
 
 ### 💻 **Passo 5: Deploy - Método 2 (CLI)**
 
