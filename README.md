@@ -20,7 +20,7 @@ Descobri recentemente a **[Discloud](https://discloud.com/)** e achei muito lega
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/discloud/discloud/main/assets/logo.png" alt="Discloud Logo" width="50" height="50" />
-  <a href="https://discloud.com/" target="_blank">**Discloud**</a>
+  <a href="https://discloud.com/" target="_blank">Discloud</a>
 </div>
 
 ### 🤔 Por que usei a Discloud?
