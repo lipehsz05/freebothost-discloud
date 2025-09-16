@@ -36,12 +36,12 @@ Olá! 👋 Este guia foi criado para te ajudar a hospedar seus bots do Discord d
 - **Ideal para:** Bots simples, testes, projetos pessoais
 - **Limitações:** Apenas 1 aplicação ativa
 
-### 💎 **Planos Pagos** (a partir de R$ 5,99/mês)
+### 💎 **Planos Pagos** (a partir de R$ 1,99/mês)
 - **RAM:** 256MB, 512MB, 1GB ou mais
 - **Ideal para:** Bots complexos, múltiplas aplicações
 - **Vantagens:** Sem limitações, suporte prioritário
 
-> 💡 **Dica:** Comece com o plano gratuito para testar. Se seu bot precisar de mais recursos, você pode fazer upgrade facilmente (a partir de R$ 5,99/mês)!
+> 💡 **Dica:** Comece com o plano gratuito para testar. Se seu bot precisar de mais recursos, você pode fazer upgrade facilmente (a partir de R$ 1,99/mês)!
 
 ---
 
